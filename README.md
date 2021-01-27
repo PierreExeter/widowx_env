@@ -17,5 +17,5 @@ pip install widowx-env
 ```bash
 git clone https://github.com/PierreExeter/widowx_env
 cd widowx_env
-pip install --e .
+pip install -e .
 ```
