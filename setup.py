@@ -8,14 +8,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="widowx_env",
-    version="0.0.1",
+    version="0.0.2",
     author="Pierre Aumjaud",
     author_email="pierre.aumjaud@ucd.ie",
     description="Gym environments for RL reaching tasks",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/PierreExeter/widowx_env",
-    download_url='https://pypi.org/project/elastictools/',
+    download_url='https://pypi.org/project/widowx-env/',
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
