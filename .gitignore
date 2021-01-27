@@ -1,3 +1,5 @@
-__pycache__
+widowx_env/__pycache__/
 widowx_env.egg-info/
+dist/
+build/
 *.pyc

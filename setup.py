@@ -14,7 +14,7 @@ setup(
     description="Gym environments for RL reaching tasks",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/PierreExeter/widowx_env",
     download_url='https://pypi.org/project/elastictools/',
     packages=find_packages(),
     classifiers=[
